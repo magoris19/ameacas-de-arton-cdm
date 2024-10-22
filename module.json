@@ -1,6 +1,6 @@
 {
-  "id": "ameacas-de-arton-magoris",
-  "title": "Ameaças de Arton - Magoris",
+  "id": "ameacas-de-arton-cdm",
+  "title": "Ameaças de Arton — CDM",
   "version": "0.0.1",
   "compatibility": {
     "minimum": "11",
@@ -19,6 +19,17 @@
   "authors": [
     {
       "name": "Magoris",
+      "discord": "magoris",
+      "flags": {}
+    },
+    {
+      "name": "Pelant",
+      "discord": "Pelant",
+      "flags": {}
+    },
+    {
+      "name": "Kabeleced",
+      "discord": "Kabeleced",
       "flags": {}
     }
   ],
@@ -109,6 +120,6 @@
     }
   ],
   "flags": {},
-  "manifest": "https://raw.githubusercontent.com/magoris19/ameacas-de-arton-magoris/main/module.json",
-  "download": "https://github.com/magoris19/ameacas-de-arton-magoris/releases/latest/download/ameacas-de-arton-magoris.zip"
+  "manifest": "https://raw.githubusercontent.com/magoris19/ameacas-de-arton-cdm/main/module.json",
+  "download": "https://github.com/magoris19/ameacas-de-arton-cdm/archive/refs/tags/v0.0.1.zip"
 }
