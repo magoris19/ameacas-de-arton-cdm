@@ -1,0 +1,111 @@
+{
+  "id": "ameacas-de-arton-magoris",
+  "title": "Ameaças de Arton - Magoris",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "tormenta20",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Conteúdo do Ameaças de Arton, para utilização em campanhas próprias.\n\nCompartilhamento proibido.",
+  "authors": [
+    {
+      "name": "Magoris",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "ameacas",
+      "label": "Ameaças",
+      "path": "packs/ameacas",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20",
+      "flags": {}
+    },
+    {
+      "name": "equipamentos",
+      "label": "Equipamentos",
+      "path": "packs/equipamentos",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20",
+      "flags": {}
+    },
+    {
+      "name": "itens-magicos",
+      "label": "Itens Mágicos",
+      "path": "packs/itens-magicos",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20",
+      "flags": {}
+    },
+    {
+      "name": "magias",
+      "label": "Magias",
+      "path": "packs/magias",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20",
+      "flags": {}
+    },
+    {
+      "name": "parceiros-e-familiares",
+      "label": "Parceiros & Familiares",
+      "path": "packs/parceiros-e-familiares",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20",
+      "flags": {}
+    },
+    {
+      "name": "racas",
+      "label": "Raças",
+      "path": "packs/racas",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20",
+      "flags": {}
+    },
+    {
+      "name": "poderes",
+      "label": "Poderes",
+      "path": "packs/poderes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20",
+      "flags": {}
+    }
+  ]
+}
