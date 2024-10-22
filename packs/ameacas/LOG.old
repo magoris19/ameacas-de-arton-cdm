@@ -1,24 +1,8 @@
-2024/10/22-11:30:05.541477 7fc7157fa700 Recovering log #204
-2024/10/22-11:30:05.562286 7fc7157fa700 Level-0 table #206: started
-2024/10/22-11:30:05.677121 7fc7157fa700 Level-0 table #206: 1916416 bytes OK
-2024/10/22-11:30:05.683676 7fc7157fa700 Delete type=3 #203
-2024/10/22-11:30:05.683722 7fc7157fa700 Delete type=0 #204
-2024/10/22-11:37:14.902643 7fc1f4f72700 Level-0 table #209: started
-2024/10/22-11:37:14.971407 7fc1f4f72700 Level-0 table #209: 2044242 bytes OK
-2024/10/22-11:37:14.974155 7fc1f4f72700 Delete type=0 #207
-2024/10/22-11:37:14.981561 7fc1f4f72700 Manual compaction at level-0 from '!actors!0amsB9fZz2ESqqwG' @ 72057594037927935 : 1 .. '!folders!zKHzGNUv3zL7K9Pb' @ 0 : 0; will stop at '!folders!zKHzGNUv3zL7K9Pb' @ 1242 : 1
-2024/10/22-11:37:14.981573 7fc1f4f72700 Compacting 2@0 + 0@1 files
-2024/10/22-11:37:15.064570 7fc1f4f72700 Generated table #210@0: 2268 keys, 2048376 bytes
-2024/10/22-11:37:15.064591 7fc1f4f72700 Compacted 2@0 + 0@1 files => 2048376 bytes
-2024/10/22-11:37:15.066408 7fc1f4f72700 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/10/22-11:37:15.066610 7fc1f4f72700 Delete type=2 #209
-2024/10/22-11:37:15.067080 7fc1f4f72700 Delete type=2 #206
-2024/10/22-11:37:15.076227 7fc1f4f72700 Manual compaction at level-0 from '!folders!zKHzGNUv3zL7K9Pb' @ 1242 : 1 .. '!folders!zKHzGNUv3zL7K9Pb' @ 0 : 0; will stop at (end)
-2024/10/22-11:37:15.084327 7fc1f4f72700 Manual compaction at level-1 from '!actors!0amsB9fZz2ESqqwG' @ 72057594037927935 : 1 .. '!folders!zKHzGNUv3zL7K9Pb' @ 0 : 0; will stop at '!folders!zKHzGNUv3zL7K9Pb' @ 1242 : 1
-2024/10/22-11:37:15.084334 7fc1f4f72700 Compacting 1@1 + 1@2 files
-2024/10/22-11:37:15.159933 7fc1f4f72700 Generated table #211@1: 2268 keys, 2048376 bytes
-2024/10/22-11:37:15.159967 7fc1f4f72700 Compacted 1@1 + 1@2 files => 2048376 bytes
-2024/10/22-11:37:15.162372 7fc1f4f72700 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/10/22-11:37:15.162773 7fc1f4f72700 Delete type=2 #210
-2024/10/22-11:37:15.163136 7fc1f4f72700 Delete type=2 #14
-2024/10/22-11:37:15.178698 7fc1f4f72700 Manual compaction at level-1 from '!folders!zKHzGNUv3zL7K9Pb' @ 1242 : 1 .. '!folders!zKHzGNUv3zL7K9Pb' @ 0 : 0; will stop at (end)
+2024/10/22-13:00:49.066918 7fc7167fc700 Recovering log #218
+2024/10/22-13:00:49.073939 7fc7167fc700 Delete type=3 #216
+2024/10/22-13:00:49.073983 7fc7167fc700 Delete type=0 #218
+2024/10/22-13:28:48.884827 7fc1f4f72700 Level-0 table #223: started
+2024/10/22-13:28:48.884856 7fc1f4f72700 Level-0 table #223: 0 bytes OK
+2024/10/22-13:28:48.887292 7fc1f4f72700 Delete type=0 #221
+2024/10/22-13:28:48.887387 7fc1f4f72700 Manual compaction at level-0 from '!actors!0amsB9fZz2ESqqwG' @ 72057594037927935 : 1 .. '!folders!zKHzGNUv3zL7K9Pb' @ 0 : 0; will stop at (end)
+2024/10/22-13:28:48.887545 7fc1f4f72700 Manual compaction at level-1 from '!actors!0amsB9fZz2ESqqwG' @ 72057594037927935 : 1 .. '!folders!zKHzGNUv3zL7K9Pb' @ 0 : 0; will stop at (end)

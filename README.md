@@ -1,4 +1,4 @@
-# Ameaças de Arton - CDM
+# Ameaças de Arton — CDM
 
 ## Descrição
 O módulo **Ameaças de Arton - CDM** é uma coleção abrangente de conteúdos projetados para enriquecer suas campanhas no universo de **Tormenta20**. Com uma variedade de raças jogáveis, fichas de ameaças, equipamentos e muito mais, este módulo foi desenvolvido para facilitar o compartilhamento e a experiência de jogo entre amigos, facilitando para que todos possam narrar suas campanhas. O compartilhamento fora desse contexto é proibido. 
