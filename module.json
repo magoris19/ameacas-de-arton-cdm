@@ -26,7 +26,7 @@
     {
       "name": "ameacas",
       "label": "Ameaças",
-      "path": "packs/ameacas",
+      "path": "packs/ameacas.db",
       "type": "Actor",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -38,7 +38,7 @@
     {
       "name": "equipamentos",
       "label": "Equipamentos",
-      "path": "packs/equipamentos",
+      "path": "packs/equipamentos.db",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -50,7 +50,7 @@
     {
       "name": "itens-magicos",
       "label": "Itens Mágicos",
-      "path": "packs/itens-magicos",
+      "path": "packs/itens-magicos.db",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -62,7 +62,7 @@
     {
       "name": "magias",
       "label": "Magias",
-      "path": "packs/magias",
+      "path": "packs/magias.db",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -74,7 +74,7 @@
     {
       "name": "parceiros-e-familiares",
       "label": "Parceiros & Familiares",
-      "path": "packs/parceiros-e-familiares",
+      "path": "packs/parceiros-e-familiares.db",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -86,7 +86,7 @@
     {
       "name": "racas",
       "label": "Raças",
-      "path": "packs/racas",
+      "path": "packs/racas.db",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -98,7 +98,7 @@
     {
       "name": "poderes",
       "label": "Poderes",
-      "path": "packs/poderes",
+      "path": "packs/poderes.db",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -107,5 +107,8 @@
       "system": "tormenta20",
       "flags": {}
     }
-  ]
+  ],
+  "flags": {},
+  "manifest": "https://raw.githubusercontent.com/magoris19/ameacas-de-arton-magoris/main/module.json",
+  "download": "https://github.com/magoris19/ameacas-de-arton-magoris/releases/latest/download/ameacas-de-arton-magoris.zip"
 }
