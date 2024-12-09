@@ -11,6 +11,7 @@ Todos os direitos são reservados à [Jambo Editora](https://jamboeditora.com.br
 - **Fichas de Ameaças**: Dezenas de fichas das ameaças presentes no livro.
 - **Equipamentos**: Quase todos os equipamentos mundanos presentes no livro.
 - **Parceiros e Familiares**: Todos parceiros e familiares estão inclusos
+- **Magias**: as novas magias e também aprimoramentos das magias antigas
 
 ## Compatibilidade
 - **Sistema**: Tormenta20
