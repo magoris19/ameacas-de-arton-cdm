@@ -28,6 +28,11 @@
       "flags": {}
     },
     {
+      "name": "cptsredfield",
+      "discord": "cptsredfield",
+      "flags": {}
+    },
+    {
       "name": "Kabeleced",
       "discord": "Kabeleced",
       "flags": {}
@@ -47,69 +52,9 @@
       "flags": {}
     },
     {
-      "name": "equipamentos",
-      "label": "Equipamentos",
-      "path": "packs/equipamentos.db",
-      "type": "Item",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "tormenta20",
-      "flags": {}
-    },
-    {
-      "name": "itens-magicos",
-      "label": "Itens Mágicos",
-      "path": "packs/itens-magicos.db",
-      "type": "Item",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "tormenta20",
-      "flags": {}
-    },
-    {
-      "name": "magias",
-      "label": "Magias",
-      "path": "packs/magias.db",
-      "type": "Item",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "tormenta20",
-      "flags": {}
-    },
-    {
-      "name": "parceiros-e-familiares",
-      "label": "Parceiros & Familiares",
-      "path": "packs/parceiros-e-familiares.db",
-      "type": "Item",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "tormenta20",
-      "flags": {}
-    },
-    {
-      "name": "racas",
-      "label": "Raças",
-      "path": "packs/racas.db",
-      "type": "Item",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "tormenta20",
-      "flags": {}
-    },
-    {
-      "name": "poderes",
-      "label": "Poderes",
-      "path": "packs/poderes.db",
+      "name": "items",
+      "label": "Items",
+      "path": "packs/items.db",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -121,5 +66,5 @@
   ],
   "flags": {},
   "manifest": "https://raw.githubusercontent.com/magoris19/ameacas-de-arton-cdm/main/module.json",
-  "download": "https://github.com/magoris19/ameacas-de-arton-magoris/archive/refs/tags/v0.1.0.zip"
+  "download": "https://github.com/magoris19/ameacas-de-arton-magoris/archive/refs/tags/v0.2.0.zip"
 }
