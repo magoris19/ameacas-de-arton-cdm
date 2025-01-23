@@ -8,10 +8,13 @@ Todos os direitos são reservados à [Jambo Editora](https://jamboeditora.com.br
 
 ## Conteúdo do Módulo
 - **Raças Jogáveis**: Descrições e poderes raciais para diversas raças.
-- **Fichas de Ameaças**: Dezenas de fichas das ameaças presentes no livro.
 - **Equipamentos**: Quase todos os equipamentos mundanos presentes no livro.
 - **Parceiros e Familiares**: Todos parceiros e familiares estão inclusos
 - **Magias**: as novas magias e também aprimoramentos das magias antigas
+- **Ameaças**:
+    - [x] Sob as Ondas
+    - [x] Trolls Nobres
+    - [x] Uivantes
 
 ## Compatibilidade
 - **Sistema**: Tormenta20
