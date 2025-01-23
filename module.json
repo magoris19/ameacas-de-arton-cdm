@@ -1,7 +1,7 @@
 {
   "id": "ameacas-de-arton-cdm",
   "title": "Ameaças de Arton — CDM",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "compatibility": {
     "minimum": "11",
     "verified": "v12.331"
@@ -77,5 +77,5 @@
   ],
   "flags": {},
   "manifest": "https://raw.githubusercontent.com/magoris19/ameacas-de-arton-cdm/main/module.json",
-  "download": "https://github.com/magoris19/ameacas-de-arton-magoris/archive/refs/tags/v0.3.0.zip"
+  "download": "https://github.com/magoris19/ameacas-de-arton-magoris/archive/refs/tags/v0.3.1.zip"
 }
