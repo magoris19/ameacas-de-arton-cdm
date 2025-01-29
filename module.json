@@ -1,7 +1,7 @@
 {
   "id": "ameacas-de-arton-cdm",
   "title": "Ameaças de Arton — CDM",
-  "version": "0.3.1",
+  "version": "0.4.1",
   "compatibility": {
     "minimum": "11",
     "verified": "v12.331"
@@ -11,6 +11,13 @@
       {
         "id": "tormenta20",
         "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "cdm-icons",
+        "type": "module",
         "compatibility": {}
       }
     ]
