@@ -27,3 +27,4 @@ Todos os direitos são reservados à [Jambo Editora](https://jamboeditora.com.br
 Este módulo é de autoria de **Magoris**, com contribuições de:
 - Pelant
 - Kabeleced
+- CptRedfield
