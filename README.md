@@ -12,9 +12,14 @@ Todos os direitos são reservados à [Jambo Editora](https://jamboeditora.com.br
 - **Parceiros e Familiares**: Todos parceiros e familiares estão inclusos
 - **Magias**: as novas magias e também aprimoramentos das magias antigas
 - **Ameaças**:
-    - [x] Reinos de Moreania
+    - [x] Mortos-vivos
+    - [x] Mundo Perdido
+    - [x] Piratas & Pistoleiros
+    - [x] Povos-trovão
+    - [x] Puristas
     - [x] Reino dos Mortos
-    - [x] Samguinárias
+    - [x] Reinos de Moreania
+    - [x] Sanguinárias
     - [x] Sob as Ondas
     - [x] Trolls Nobres
     - [x] Uivantes
