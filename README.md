@@ -12,6 +12,8 @@ Todos os direitos são reservados à [Jambo Editora](https://jamboeditora.com.br
 - **Parceiros e Familiares**: Todos parceiros e familiares estão inclusos
 - **Magias**: as novas magias e também aprimoramentos das magias antigas
 - **Ameaças**:
+    - [x] Império de Jade
+    - [x] Império de Tauron
     - [x] Kobolds
     - [x] Mascotes & Familiares
     - [x] Masmorras
