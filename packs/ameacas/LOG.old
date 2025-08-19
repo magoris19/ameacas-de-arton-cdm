@@ -1,8 +1,17 @@
-2025/03/10-12:22:49.913313 7ff046ffd700 Recovering log #551
-2025/03/10-12:22:49.923805 7ff046ffd700 Delete type=3 #549
-2025/03/10-12:22:49.923865 7ff046ffd700 Delete type=0 #551
-2025/03/11-19:55:48.940927 7feb27c2b700 Level-0 table #556: started
-2025/03/11-19:55:48.941768 7feb27c2b700 Level-0 table #556: 0 bytes OK
-2025/03/11-19:55:48.944810 7feb27c2b700 Delete type=0 #554
-2025/03/11-19:55:48.952926 7feb27c2b700 Manual compaction at level-0 from '!actors!02mGq5lGA86NMJCA' @ 72057594037927935 : 1 .. '!folders!zKHzGNUv3zL7K9Pb' @ 0 : 0; will stop at (end)
-2025/03/11-19:55:48.953074 7feb27c2b700 Manual compaction at level-1 from '!actors!02mGq5lGA86NMJCA' @ 72057594037927935 : 1 .. '!folders!zKHzGNUv3zL7K9Pb' @ 0 : 0; will stop at (end)
+2025/08/19-19:04:51.162 52ac Recovering log #628
+2025/08/19-19:04:51.165 52ac Delete type=0 #628
+2025/08/19-19:04:51.165 52ac Delete type=3 #623
+2025/08/19-19:15:54.846 5c4 Level-0 table #635: started
+2025/08/19-19:15:54.849 5c4 Level-0 table #635: 115533 bytes OK
+2025/08/19-19:15:54.850 5c4 Delete type=0 #633
+2025/08/19-19:15:54.851 5c4 Manual compaction at level-0 from '!actors!02mGq5lGA86NMJCA' @ 72057594037927935 : 1 .. '!folders!zKHzGNUv3zL7K9Pb' @ 0 : 0; will stop at (end)
+2025/08/19-19:15:54.851 5c4 Manual compaction at level-1 from '!actors!02mGq5lGA86NMJCA' @ 72057594037927935 : 1 .. '!folders!zKHzGNUv3zL7K9Pb' @ 0 : 0; will stop at '!actors.items.effects!SlMZoR9jHPZ625Sw.ictSaqlPB2tZLIN7.7E5uNDYWnztldKD6' @ 44216 : 1
+2025/08/19-19:15:54.851 5c4 Compacting 1@1 + 2@2 files
+2025/08/19-19:15:54.885 5c4 Generated table #636@1: 1451 keys, 2124445 bytes
+2025/08/19-19:15:54.916 5c4 Generated table #637@1: 3426 keys, 2076126 bytes
+2025/08/19-19:15:54.916 5c4 Compacted 1@1 + 2@2 files => 4200571 bytes
+2025/08/19-19:15:54.916 5c4 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/08/19-19:15:54.916 5c4 Delete type=2 #630
+2025/08/19-19:15:54.917 5c4 Delete type=2 #631
+2025/08/19-19:15:54.917 5c4 Delete type=2 #635
+2025/08/19-19:15:54.925 5c4 Manual compaction at level-1 from '!actors.items.effects!SlMZoR9jHPZ625Sw.ictSaqlPB2tZLIN7.7E5uNDYWnztldKD6' @ 44216 : 1 .. '!folders!zKHzGNUv3zL7K9Pb' @ 0 : 0; will stop at (end)
