@@ -12,6 +12,9 @@ Todos os direitos são reservados à [Jambo Editora](https://jamboeditora.com.br
 - **Parceiros e Familiares**: Todos parceiros e familiares estão inclusos
 - **Magias**: as novas magias e também aprimoramentos das magias antigas
 - **Ameaças**:
+    - [x] Duyshidakk    
+    - [x] Elementais
+    - [x] Ermos
     - [x] Golens    
     - [x] Igreja de Arsenal
     - [x] Império de Jade

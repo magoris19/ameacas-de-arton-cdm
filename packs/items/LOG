@@ -1,3 +1,10 @@
-2025/08/19-19:16:06.786 5d2c Recovering log #363
-2025/08/19-19:16:06.789 5d2c Delete type=0 #363
-2025/08/19-19:16:06.789 5d2c Delete type=3 #361
+2025/09/01-20:32:42.981 3f30 Recovering log #391
+2025/09/01-20:32:42.982 3f30 Level-0 table #394: started
+2025/09/01-20:32:42.985 3f30 Level-0 table #394: 7566 bytes OK
+2025/09/01-20:32:42.990 3f30 Delete type=0 #391
+2025/09/01-20:32:42.990 3f30 Delete type=3 #389
+2025/09/01-20:32:44.070 542c Moved #394 to level-1 7566 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2025/09/01-20:32:44.075 542c Compacting 1@1 + 1@2 files
+2025/09/01-20:32:44.089 542c Generated table #396@1: 1090 keys, 664056 bytes
+2025/09/01-20:32:44.089 542c Compacted 1@1 + 1@2 files => 664056 bytes
+2025/09/01-20:32:44.090 542c compacted to: files[ 0 0 1 0 0 0 0 ]

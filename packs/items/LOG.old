@@ -1,15 +1,12 @@
-2025/08/19-19:04:51.207 52ac Recovering log #359
-2025/08/19-19:04:51.210 52ac Delete type=0 #359
-2025/08/19-19:04:51.210 52ac Delete type=3 #355
-2025/08/19-19:15:54.920 5c4 Level-0 table #364: started
-2025/08/19-19:15:54.923 5c4 Level-0 table #364: 6174 bytes OK
-2025/08/19-19:15:54.924 5c4 Delete type=0 #362
-2025/08/19-19:15:54.925 5c4 Manual compaction at level-0 from '!folders!11WpFK9gF6Z1gaik' @ 72057594037927935 : 1 .. '!items.effects!zvW6c5g1MpyyACj4.rZLfc4MKjla6Mr5D' @ 0 : 0; will stop at (end)
-2025/08/19-19:15:54.925 5c4 Manual compaction at level-1 from '!folders!11WpFK9gF6Z1gaik' @ 72057594037927935 : 1 .. '!items.effects!zvW6c5g1MpyyACj4.rZLfc4MKjla6Mr5D' @ 0 : 0; will stop at '!items.effects!dSJZEbhhd0rvC1IH.lKCfi3XTKxz43ddM' @ 7202 : 1
-2025/08/19-19:15:54.925 5c4 Compacting 1@1 + 1@2 files
-2025/08/19-19:15:54.934 5c4 Generated table #365@1: 1068 keys, 652401 bytes
-2025/08/19-19:15:54.934 5c4 Compacted 1@1 + 1@2 files => 652401 bytes
-2025/08/19-19:15:54.935 5c4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/08/19-19:15:54.936 5c4 Delete type=2 #358
-2025/08/19-19:15:54.936 5c4 Delete type=2 #364
-2025/08/19-19:15:54.940 5c4 Manual compaction at level-1 from '!items.effects!dSJZEbhhd0rvC1IH.lKCfi3XTKxz43ddM' @ 7202 : 1 .. '!items.effects!zvW6c5g1MpyyACj4.rZLfc4MKjla6Mr5D' @ 0 : 0; will stop at (end)
+2025/09/01-12:48:51.436 1398 Recovering log #387
+2025/09/01-12:48:51.436 1398 Level-0 table #390: started
+2025/09/01-12:48:51.439 1398 Level-0 table #390: 9133 bytes OK
+2025/09/01-12:48:51.442 1398 Delete type=0 #387
+2025/09/01-12:48:51.442 1398 Delete type=3 #385
+2025/09/01-12:48:52.456 3194 Moved #390 to level-1 9133 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2025/09/01-12:48:52.461 3194 Compacting 1@1 + 1@2 files
+2025/09/01-12:48:52.473 3194 Generated table #392@1: 1088 keys, 663156 bytes
+2025/09/01-12:48:52.473 3194 Compacted 1@1 + 1@2 files => 663156 bytes
+2025/09/01-12:48:52.474 3194 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/01-12:48:52.474 3194 Delete type=2 #388
+2025/09/01-12:48:52.474 3194 Delete type=2 #390
