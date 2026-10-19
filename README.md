@@ -39,6 +39,18 @@ Todos os direitos são reservados à [Jambo Editora](https://jamboeditora.com.br
 - **Sistema**: Tormenta20
 - **Versão mínima**: 11
 
+As fichas atuais foram preparadas para **Tormenta20 1.4.213 / Foundry 12.331**.
+A versão 0.8.1 corrigiu imagens, sem migrar essas fichas para o sistema 1.6.5.
+
+## Estado e migração futura
+
+- [Inventário de todos os capítulos e das 408 ameaças](docs/INVENTARIO_AMEACAS.md)
+- [Plano para migrar de Tormenta20 1.4.213 para 1.6.5](docs/MIGRACAO_T20_1_6_5.md)
+- [Controle de execução por ameaça](docs/CONTROLE_MIGRACAO.csv)
+
+Os capítulos marcados acima são declarações de conclusão de conteúdo.
+A migração e a validação no Foundry de destino serão acompanhadas separadamente.
+
 ## Contribuições
 Este módulo é de autoria de **Magoris**, com contribuições de:
 - Pelant
