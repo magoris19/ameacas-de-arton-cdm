@@ -1,58 +1,69 @@
 # Ameaças de Arton — CDM
 
-## Descrição
-O módulo **Ameaças de Arton - CDM** é uma coleção abrangente de conteúdos projetados para enriquecer suas campanhas no universo de **Tormenta20**. Com uma variedade de raças jogáveis, fichas de ameaças, equipamentos e muito mais, este módulo foi desenvolvido para facilitar o compartilhamento e a experiência de jogo entre amigos, facilitando para que todos possam narrar suas campanhas. O compartilhamento fora desse contexto é proibido. 
+Módulo para campanhas de **Tormenta20** no Foundry Virtual Tabletop. A versão **1.0.0** inclui **418 fichas de ameaça em 34 pastas**, com todos os vínculos da hierarquia conferidos.
 
-## Direitos Autorais
-Todos os direitos são reservados à [Jambo Editora](https://jamboeditora.com.br/).
+## Compêndios
 
-## Conteúdo do Módulo
-- **Raças Jogáveis**: Descrições e poderes raciais para diversas raças.
-- **Equipamentos**: Quase todos os equipamentos mundanos presentes no livro.
-- **Parceiros e Familiares**: Todos parceiros e familiares estão inclusos
-- **Magias**: as novas magias e também aprimoramentos das magias antigas
-- **Ameaças**:
-    - [x] Duyshidakk    
-    - [x] Elementais
-    - [x] Ermos
-    - [x] Golens    
-    - [x] Igreja de Arsenal
-    - [x] Império de Jade
-    - [x] Império de Tauron
-    - [x] Kobolds
-    - [x] Mascotes & Familiares
-    - [x] Masmorras
-    - [x] Montarias
-    - [x] Mortos-vivos
-    - [x] Mundo Perdido
-    - [x] Piratas & Pistoleiros
-    - [x] Povos-trovão
-    - [x] Puristas
-    - [x] Reino dos Mortos
-    - [x] Reinos de Moreania
-    - [x] Sanguinárias
-    - [x] Sob as Ondas
-    - [x] Trolls Nobres
-    - [x] Uivantes
+| Compêndio | Conteúdo |
+| --- | --- |
+| **Ameaças** | 418 fichas de PNJ, com criaturas, adversários, montarias, mascotes e familiares. |
+| **Items** | 481 itens, incluindo equipamentos, armas, magias, poderes raciais e habilidades de criaturas, parceiros e familiares. |
+| **Journals** | 8 entradas de diário, com material de consulta como Novos Perigos. |
 
-## Compatibilidade
-- **Sistema**: Tormenta20
-- **Versão mínima**: 11
+## Pastas de Ameaças
 
-As fichas atuais foram preparadas para **Tormenta20 1.4.213 / Foundry 12.331**.
-A versão 0.8.1 corrigiu imagens, sem migrar essas fichas para o sistema 1.6.5.
+O compêndio tem **30 pastas no nível principal** e **4 subpastas dentro de Elementais**. Os números indicam quantas fichas há em cada pasta, incluindo suas subpastas.
 
-## Estado e migração futura
+- Áreas de Tormenta (13)
+- Brutos & Indomáveis (21)
+- Capangas & Bandoleiros (17)
+- Culto de Aharadak (11)
+- Dragões (12)
+- Duyshidakk (12)
+- Elementais (12)
+  - Elemental da Água (3)
+  - Elemental da Terra (3)
+  - Elemental do Ar (3)
+  - Elemental do Fogo (3)
+- Ermos (12)
+- Gnolls (14)
+- Golens (11)
+- Igreja de Arsenal (8)
+- Igreja de Kallyadranoch (10)
+- Império de Jade (19)
+- Império de Tauron (12)
+- Kobolds (8)
+- Mascotes & Familiares (10)
+- Masmorras (16)
+- Montarias (26)
+- Mortos-vivos (22)
+- Mundo Perdido (14)
+- Piratas & Pistoleiros (21)
+- Povos-trovão (12)
+- Puristas (11)
+- Reino dos Mortos (10)
+- Reinos de Moreania (10)
+- Sanguinárias (10)
+- Sob as Ondas (19)
+- Sszzaaszitas (17)
+- Trolls Nobres (13)
+- Uivantes (15)
 
-- [Inventário de todos os capítulos e das 408 ameaças](docs/INVENTARIO_AMEACAS.md)
-- [Plano para migrar de Tormenta20 1.4.213 para 1.6.5](docs/MIGRACAO_T20_1_6_5.md)
-- [Controle de execução por ameaça](docs/CONTROLE_MIGRACAO.csv)
+## Mudanças na versão 1.0.0
 
-Os capítulos marcados acima são declarações de conclusão de conteúdo.
-A migração e a validação no Foundry de destino serão acompanhadas separadamente.
+- Recolocadas no nível principal 23 pastas que apontavam para pastas superiores ausentes. A comparação do banco confirmou a preservação dos IDs, do conteúdo e da pasta de cada uma das 418 fichas.
+- Mantida a correção de imagens da versão 0.8.1. Os caminhos de retratos e tokens que apontam para `modules/cdm-icons/tokens-t20/` usam arquivos WebP.
 
-## Contribuições
-Este módulo é de autoria de **Magoris**, com contribuições de:
-- Pelant
-- Kabeleced
-- CptRedfield
+## Requisitos e compatibilidade
+
+- **Sistema** — Tormenta20.
+- **Módulo obrigatório** — CDM Icons, que fornece as imagens referenciadas pelas fichas.
+- **Foundry VTT** — O manifesto declara versão mínima 11 e verificação na versão 12.331.
+
+Os metadados do compêndio Ameaças registram **327 fichas em Tormenta20 1.4.213** e **91 em Tormenta20 1.6.6**. A contagem e a hierarquia foram conferidas no banco local. A validação em jogo desta edição ainda está pendente.
+
+## Créditos e direitos autorais
+
+Módulo de **Magoris**, com contribuições de **Pelant**, **Kabeleced** e **CptRedfield**.
+
+O conteúdo de *Ameaças de Arton* destina-se ao uso em campanhas próprias. O compartilhamento fora desse contexto é proibido. Os direitos sobre o conteúdo do livro pertencem à [Jambô Editora](https://jamboeditora.com.br/).
